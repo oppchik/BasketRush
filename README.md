@@ -16,6 +16,9 @@
 * **Графическая библиотека:** Windows Forms (GDI+ / System.Drawing)
 * **Платформа:** .NET Framework 4.7.2+ / .NET Modern Windows Desktop
 
+
+![Menu](docs/menu.png)
+
 ## 🏗 Архитектура проекта
 
 Проект спроектирован с использованием строгого архитектурного паттерна **MVC (Model-View-Controller)**:
